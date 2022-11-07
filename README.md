@@ -1,3 +1,3 @@
-# MIRDL APP
+# MattO Personal Site
 
-This is as live demo repo demonstrating the various modules to produce MIRDL for the MITRE Institute class TSW143 - Introduction to Vue.js (Virtual Edition)
+This is a test of creating a personal website with Vue.js
